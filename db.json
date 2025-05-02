@@ -1,0 +1,122 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "Tomato",
+      "light": "Full sun",
+      "height": 150,
+      "care": "Water daily, fertilize weekly",
+      "harvest": "60-85 days after planting"
+    },
+    {
+      "id": 2,
+      "name": "Basil",
+      "light": "Partial sun",
+      "height": 30,
+      "care": "Keep soil moist, pinch flower buds",
+      "harvest": "Begin harvesting after 4 weeks"
+    },
+    {
+      "id": 3,
+      "name": "Carrot",
+      "light": "Full sun",
+      "height": 25,
+      "care": "Thin seedlings, keep soil loose",
+      "harvest": "70-80 days after planting"
+    },
+    {
+      "id": 4,
+      "name": "Mint",
+      "light": "Partial shade",
+      "height": 45,
+      "care": "Keep soil moist, cut back frequently",
+      "harvest": "Can be harvested as needed"
+    },
+    {
+      "id": 5,
+      "name": "Lettuce",
+      "light": "Partial shade",
+      "height": 20,
+      "care": "Water regularly, keep cool",
+      "harvest": "30-60 days depending on variety"
+    },
+    {
+      "id": 6,
+      "name": "Cucumber",
+      "light": "Full sun",
+      "height": 120,
+      "care": "Water deeply, use trellis",
+      "harvest": "50-70 days after planting"
+    },
+    {
+      "id": 7,
+      "name": "Rosemary",
+      "light": "Full sun",
+      "height": 90,
+      "care": "Allow soil to dry between waterings",
+      "harvest": "Snip sprigs as needed"
+    },
+    {
+      "id": 8,
+      "name": "Strawberry",
+      "light": "Full sun",
+      "height": 25,
+      "care": "Mulch soil, water regularly",
+      "harvest": "4-6 weeks after blossoming"
+    },
+    {
+      "id": 9,
+      "name": "Zucchini",
+      "light": "Full sun",
+      "height": 60,
+      "care": "Water deeply, pick often",
+      "harvest": "45-55 days after planting"
+    },
+    {
+      "id": 10,
+      "name": "Parsley",
+      "light": "Partial sun",
+      "height": 40,
+      "care": "Keep soil moist, trim regularly",
+      "harvest": "70-90 days after planting"
+    }
+  ],
+  "tips": [
+    {
+      "id": 1,
+      "text": "Water early in the morning to reduce evaporation."
+    },
+    {
+      "id": 2,
+      "text": "Add mulch to retain moisture and reduce weeds."
+    },
+    {
+      "id": 3,
+      "text": "Use coffee grounds in compost to boost nitrogen."
+    },
+    {
+      "id": 4,
+      "text": "Rotate crops each season to maintain healthy soil."
+    },
+    {
+      "id": 5,
+      "text": "Deadhead flowers regularly to encourage more blooms."
+    },
+    {
+      "id": 6,
+      "text": "Check leaves for pests weekly—early action is best!"
+    },
+    {
+      "id": 7,
+      "text": "Collect rainwater to irrigate your garden sustainably."
+    },
+    {
+      "id": 8,
+      "text": "Don't overwater—most plants prefer deep, infrequent watering."
+    },
+    {
+      "text": "fdgsdgsd",
+      "id": 9
+    }
+  ]
+}
